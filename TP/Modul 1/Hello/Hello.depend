@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1517126710 source:e:\learning coding\c++\tp\modul 1\hello\hello.cpp
+	"hello.h"
+
+1517126862 e:\learning coding\c++\tp\modul 1\hello\hello.h
+	<iostream>
+	<cstdlib>
+
+1517126680 source:e:\learning coding\c++\tp\modul 1\hello\main.cpp
+	<iostream>
+	"hello.h"
+

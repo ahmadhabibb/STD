@@ -19,33 +19,5 @@ int main() {
     }
     printInfo(L);
 
-
-//    List L;
-//    address P = NULL;
-//    createList(L);
-//
-//    while (true) {
-//        insertFirst(L, alokasi(5));
-//        deleteFirst(L, P);
-//    }
-//    cout << "Hello world!" << endl;
-//    int b;
-//    b = 5;
-//    alokasi(b);
-//
-//    //printInfo(b);
-//
-//    insertFirst(30);
-//    insertFirst(1);
-//    printInfo();
-//    int i;
-//    i = 0;
-//    List a;
-//    while (i <= 10) {
-//        cout << "Masukan Angka = " << endl;
-//        cin >> createList(a);
-//        i++;
-//    }
-
     return 0;
 }
